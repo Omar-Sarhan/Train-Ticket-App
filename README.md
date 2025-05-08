@@ -99,17 +99,6 @@ The backend uses **JWT** for secure API access. Login generates a token stored o
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or GIFs here)*
-
-- ✅ Booking Flow  
-- 📅 Schedule Viewer  
-- 🧾 Ticket History  
-- 🔒 Secure Login  
-
----
-
 ## 🧠 Features
 
 - 🔍 Search for available trains

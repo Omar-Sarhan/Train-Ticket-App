@@ -37,7 +37,7 @@ Each part is developed and maintained in its own GitHub repository and linked he
 ### Backend
 - ASP.NET Core Web API
 - Entity Framework Core
-- SQL Server
+- Oracle Database (Data First Approach)
 - JWT Authentication
 - RESTful Services
 

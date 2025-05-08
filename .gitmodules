@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Omar-Sarhan/Train-Tracker-Angular.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Omar-Sarhan/Train-Tracker-BackEnd.git
